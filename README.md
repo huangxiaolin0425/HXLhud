@@ -1,5 +1,5 @@
 # HXLhud
-这是一款非常好用的hud使用时只需导入：
+这是一款非常好用的hud使用时只需导入
 HXHUD.h/.m
 NSObject+RandomColor.h/.m
 PrefixHeader.pch即可
